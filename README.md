@@ -2,8 +2,8 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 <div style="display: flex; align-items: center; gap: 10px;">
-  <h1>b.e.e.r</h1>
-  <h2>the Blender Ensemble of the Entente states of ameRica</h2>
+  <h1 style="border-bottom: none;>b.e.e.r</h1>
+  <h2 style="border-bottom: none;>the Blender Ensemble of the Entente states of ameRica</h2>
   <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/beer.png?raw=true" width="20%" alt="Logo" />
 </div>
 <hr>
