@@ -13,7 +13,7 @@
   </a>
 </div>
 
-## License
+## Licenses
 This work has 2 differnet licenses.
 
 The website (HTML, CSS, JS) is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text:~:text=possible%20GPL%20violation-,gnu%20general%20public%20license).
