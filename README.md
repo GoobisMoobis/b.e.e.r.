@@ -1,8 +1,11 @@
-# b.e.e.r.
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
-## the Blender Ensemble of the Entente states of ameRica
+<div align="center">
+  <h1>b.e.e.r</h1>
+  <h2>the Blender Ensemble of the Entente states of ameRica</h2>
+  <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/beer.png?raw=true" width="60%" alt="Logo" />
+</div>
 <hr>
 <div align="center" style="line-height: 1;">
   <a href="https://github.com/GoobisMoobis/b.e.e.r./blob/main/LICENSE">
