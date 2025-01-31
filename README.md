@@ -7,6 +7,7 @@
   <h3>the Blender Ensemble of the Entente states of ameRica</h3>
   <a href="https://github.com/GoobisMoobis/b.e.e.r./blob/main/LICENSE">
   <img alt="License" src="https://img.shields.io/badge/License-GNU%20General%20Public%20License%20v3.0-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
+  <img alt="License" src="https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International%20(CC%20BY%204.0)%20License-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
   </a>
 </div>
 
