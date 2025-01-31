@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
-<div style="display: center">
+<div align="center">
   <h1>b.e.e.r</h1>
   <h2>the Blender Ensemble of the Entente states of ameRica</h2>
   <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/beer.png?raw=true" width="40%" alt="Logo" />
