@@ -34,7 +34,7 @@ The website (HTML, CSS, JS) is licensed under the [GNU General Public License v3
 
 Most of the music is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License.](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-However due to some samples we used, certain songs are licensed under the [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA) License.](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+However due to some samples we used, certain songs are licensed under the [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) License.](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 To see a full list of each song and their license, check [LICENSES.md](https://github.com/GoobisMoobis/b.e.e.r./blob/main/LICENSES.md)
 
