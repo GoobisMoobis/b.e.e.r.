@@ -28,11 +28,15 @@
 
 # Licenses
 
-This work has 2 differnet licenses.
+This work has 3 differnet licenses.
 
 The website (HTML, CSS, JS) is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text:~:text=possible%20GPL%20violation-,gnu%20general%20public%20license).
 
-The music is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License.](https://creativecommons.org/licenses/by/4.0/deed.en)
+The music is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License.](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+However due to some samples we used, certain songs are licensed under the [Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA License.)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+To see a full list of each song and their license, check [LICENSES.md](https://github.com/GoobisMoobis/b.e.e.r./blob/main/LICENSES.md)
 
 <hr>
 
