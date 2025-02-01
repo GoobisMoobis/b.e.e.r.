@@ -49,7 +49,7 @@ We make mostly comedic satirical songs but honestly don't expect us to be consis
 
 - [audiotool.com](https://www.audiotool.com/) because I really didn't want to pay for FL Studio
 <span>
-<a href="https://shields.io/">shields.io</a> because &nbsp &nbsp &nbsp &nbsp
+<a href="https://shields.io/">shields.io</a> because &nbsp
 <img alt="If this image doesn't load, reload the page or this sentence won't make sense." src="https://img.shields.io/badge/I%20absolutely%20LOVE%20these%20badges-grey" style="margin-right: 5px">
 </span>
 
