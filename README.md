@@ -10,7 +10,7 @@
   </a>
   <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">
   <img alt="Music License" src="https://img.shields.io/badge/Music%20License-CC%20BY%204.0-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
-     <img alt="Music License" src="https://img.shields.io/badge/README.md%20written%20by%20(and%20from%20the%20perspective%20of)%20GoobisMoobis%20(main%20contributer%20and%20band%20creator)" style="display: inline-block; vertical-align: middle;"/>
+     <img alt="README.md Info" src="https://img.shields.io/badge/README.md%20written%20by%20(and%20from%20the%20perspective%20of)%20GoobisMoobis%20(main%20contributer%20and%20band%20creator)" style="display: inline-block; vertical-align: middle;"/>
   </a>
     <img alt="Last Commit" src="https://shields.io/github/last-commit/GoobisMoobis/b.e.e.r." style="display: inline-block; vertical-align: middle;"/>
 </div>
