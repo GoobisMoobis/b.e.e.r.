@@ -29,3 +29,17 @@ The music is licensed under the [Creative Commons Attribution 4.0 International 
 <hr>
 
 ## So, what is b.e.e.r.?
+
+b.e.e.r. is a random band that I don't even really know what I made it for.
+
+We make mostly comedic satirical songs but honestly don't expect us to be consistant.
+
+<hr>
+
+## Who are the members?
+
+<img alt="Contributors" src="https://img.shields.io/github/contributors/GoobisMoobis/b.e.e.r.
+" style="display: inline-block; vertical-align: middle;"/>
+
+- **GoobisMoobis:** Lead Singer (ignore my goofy voice), basically band leader and mastermind
+- ****
