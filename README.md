@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>b.e.e.r.</h1>
-  <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="20%" alt="Logo" />
+  <h1>b.e.e.r.
+    <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="20%" alt="Logo" />
+  </h1>
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
