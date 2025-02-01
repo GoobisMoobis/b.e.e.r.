@@ -38,8 +38,16 @@ We make mostly comedic satirical songs but honestly don't expect us to be consis
 
 ## Who are the members?
 
-![GitHub contributors](https://img.shields.io/github/contributors-anon/GoobisMoobis/b.e.e.r.)
-
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/GoobisMoobis/b.e.e.r.)](https://img.shields.io/github/contributors-anon/GoobisMoobis/b.e.e.r.)
 
 - **[GoobisMoobis:](https://github.com/GoobisMoobis)** Lead Singer (ignore my goofy voice), basically band leader and mastermind
 - **[Hammurabi/Rathesungod:](https://github.com/hsfsdksjkdjskd)** Emotional support, sometimes makes backing tracks, I taught him how to do HTML/CSS/JS so he helps me with the website too :)
+
+<hr>
+
+## Credits
+
+[audiotool.com](https://www.audiotool.com/) because I really didn't want to pay for FL Studio
+[shields.io](https://shields.io/) because ![If this image doesn't load, reload the page or this won't make sense](https://img.shields.io/badge/I%20absolutely%20LOVE%20these%20badges)
+
+Song credits
