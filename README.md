@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
    <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="2%" alt="Logo" />
    b.e.e.r.
   <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="2%" alt="Logo" />
