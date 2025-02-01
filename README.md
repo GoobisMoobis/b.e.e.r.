@@ -64,4 +64,4 @@ We make mostly comedic satirical songs but honestly don't expect us to be consis
 </ul>
 </span>
 
-- Song credits can be found in [SOUNDCREDITS.md](https://github.com/GoobisMoobis/b.e.e.r./blob/main/SOUNDCREDITS.md)
+- Song credits can be found in [SONGCREDITS.md](https://github.com/GoobisMoobis/b.e.e.r./blob/main/SONGCREDITS.md)
