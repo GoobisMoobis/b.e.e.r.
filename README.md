@@ -17,7 +17,9 @@
    <img alt="README.md Info" src="https://img.shields.io/badge/README.md%20written%20by%20(and%20from%20the%20perspective%20of)%20GoobisMoobis%20(main%20contributer%20and%20band%20creator)-blue" style="display: inline-block; vertical-align: middle;"/>
 </div>
 <hr>
+
 ## Licenses
+
 This work has 2 differnet licenses.
 
 The website (HTML, CSS, JS) is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text:~:text=possible%20GPL%20violation-,gnu%20general%20public%20license).
