@@ -47,7 +47,10 @@ We make mostly comedic satirical songs but honestly don't expect us to be consis
 
 ## Credits
 
-[audiotool.com](https://www.audiotool.com/) because I really didn't want to pay for FL Studio
-[shields.io](https://shields.io/) because ![If this image doesn't load, reload the page or this won't make sense](https://img.shields.io/badge/I%20absolutely%20LOVE%20these%20badges-grey)
+- [audiotool.com](https://www.audiotool.com/) because I really didn't want to pay for FL Studio
+<span>
+<a href="https://shields.io/">shields.io</a> because
+<img alt="Static Badge" src="https://img.shields.io/badge/I%20absolutely%20LOVE%20these%20badges">
+</span>
 
 Song credits
