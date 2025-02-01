@@ -26,4 +26,6 @@ The website (HTML, CSS, JS) is licensed under the [GNU General Public License v3
 
 The music is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License.](https://creativecommons.org/licenses/by/4.0/deed.en)
 
+<hr>
+
 ## So, what is b.e.e.r.?
