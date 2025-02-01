@@ -1,10 +1,8 @@
-<div align="center">
-  <h1>
-    <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="2%" alt="Logo" />
-    b.e.e.r.
-    <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="2%" alt="Logo" />
-  </h1>
-</div>
+<h1>
+   <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="2%" alt="Logo" />
+   b.e.e.r.
+  <img src="https://github.com/GoobisMoobis/b.e.e.r./blob/main/icon.png?raw=true" width="2%" alt="Logo" />
+ </h1>
 <hr>
 <div align="center" style="line-height: 1;">
   <h3>the Blender Ensemble of the Entente states of ameRica</h3>
