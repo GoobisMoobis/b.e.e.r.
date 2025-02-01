@@ -11,6 +11,7 @@
   <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">
   <img alt="Music License" src="https://img.shields.io/badge/Music%20License-CC%20BY%204.0-f5de53?&color=f5de53" style="display: inline-block; vertical-align: middle;"/>
   </a>
+    <img alt="Last Commit" src="[https://img.shields.io/badge/Music%20License-CC%20BY%204.0-f5de53?&color=f5de53](https://shields.io/github/last-commit/GoobisMoobis/b.e.e.r.)" style="display: inline-block; vertical-align: middle;"/>
 </div>
 
 ## Licenses
