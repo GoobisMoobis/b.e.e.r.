@@ -1,3 +1,41 @@
 body {
   font-family: Arial, sans-serif;
 }
+
+/* Header styles */
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+}
+
+.site-header h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+.logo img {
+    height: 50px; /* Adjust as needed */
+}
+
+.main-nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.main-nav ul li {
+    margin-left: 20px;
+}
+
+.main-nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.main-nav ul li a:hover {
+    text-decoration: underline;
+}
