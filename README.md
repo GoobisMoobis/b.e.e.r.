@@ -57,13 +57,26 @@ We make mostly comedic satirical songs but honestly don't expect us to be consis
 
 <hr>
 
+# Upcoming
+
+Our first album!
+
+**If my son doesn't get me a beer at 12:00 PM on a Tuesday he isn't my son**
+
+- Songs:
+  - Moral of the story
+  - Hammurabi
+  - I love beer
+
+<hr>
+
 # Credits
 
 - [audiotool.com](https://www.audiotool.com/) because I really didn't want to pay for FL Studio
 
 <span>
 <ul>
-<li><a href="https://shields.io/">shields.io</a> because &nbsp
+<li><a href="https://shields.io/">shields.io</a> because &nbsp;
 <img alt="If this image doesn't load, reload the page or this sentence won't make sense." src="https://img.shields.io/badge/I%20absolutely%20LOVE%20these%20badges-grey" style="margin-right: 5px"></li>
 </ul>
 </span>
