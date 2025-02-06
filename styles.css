@@ -18,8 +18,14 @@ body {
     padding: 0;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
 .logo img {
     height: 50px; /* Adjust as needed */
+    margin-right: 10px; /* Space between image and text */
 }
 
 .main-nav ul {
@@ -39,4 +45,14 @@ body {
 
 .main-nav ul li a:hover {
     text-decoration: underline;
+}
+
+/* Remove default link styles for header text */
+.site-header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.site-header a:hover {
+    text-decoration: none;
 }
