@@ -18,7 +18,7 @@ body {
     padding: 0;
 }
 
-.logo {
+.logo-container {
     display: flex;
     align-items: center;
 }
